@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/lib/rabbitmq/lib/rabbitmq_server-2.5.1/plugins'
+let g:netrw_dirhist_2='/home/kane/rails/SmartHome'
+let g:netrw_dirhist_3='/home/kane/.vim'
+let g:netrw_dirhist_4='/home/kane/rails/smarthome-site/app'
+let g:netrw_dirhist_5='/home/kane/rails/smarthome-site_old/log'
+let g:netrw_dirhist_6='/home/kane/.autotest.d'
+let g:netrw_dirhist_7='/home/kane/rails/donates_to/spec'
+let g:netrw_dirhist_8='/home/kane/rails/smarthome-site/app/assets/images/.svn'
